@@ -37,7 +37,7 @@ export default function SideBar() {
       >
         <div className="profile-img w-full py-[15px]">
           <img
-            src="/img/avatar.jpg"
+            src="/img/avatar.png"
             alt="avatar"
             className="w-[120px] h-[120px] object-cover rounded-full border-[4px] border-green-[#292e39] mx-auto"
           />

@@ -24,7 +24,7 @@ export default function About() {
         <div className="flex flex-col md:flex-row gap-[20px] items-center justify-center">
           <div className="md:w-[34.33%]">
             <img
-              src="./img/avatar.jpg"
+              src="./img/avatar.png"
               alt="avatar"
               className="mx-auto w-full h-full flex-1"
             />
